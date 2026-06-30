@@ -1,0 +1,8 @@
+Candidate: Karthik Iyer
+Spoke briefly at the AI meetup. Strong NLP and PyTorch background, also
+mentioned some FastAPI side projects. Said he's open to relocating to
+Bengaluru. Reach him at karthik.iyer@outlook.com if shortlisted.
+
+Also met a candidate, Priya Nair, who does product design but picked up
+some SQL recently for analytics dashboards. Phone was something like
+99887 76655, didn't fully confirm.

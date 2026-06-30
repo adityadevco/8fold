@@ -1,0 +1,35 @@
+{
+  "candidates": [
+    {
+      "full_name": "Aditi Sharma",
+      "contact": {"email": "aditi.sharma@gmail.com", "phone": "+91-9876543210"},
+      "location": {"city": "Bengaluru", "country": "India"},
+      "headline": "Backend Engineer @ Razorpay",
+      "skills": ["Python", "Go", "PostgreSQL", "Docker"],
+      "work_history": [
+        {"employer": "Razorpay", "job_title": "Backend Engineer", "start_date": "2022-06", "is_current": true,
+         "description": "Building payment reconciliation services."}
+      ],
+      "edu": [
+        {"school": "BITS Pilani", "degree": "B.E.", "field_of_study": "Computer Science", "grad_year": 2022}
+      ]
+    },
+    {
+      "full_name": "Karthik Iyer",
+      "contact": {"email": "karthik.iyer@outlook.com", "phone": "9123456780"},
+      "location": "Chennai, India",
+      "headline": "ML Engineer",
+      "skill_list": [{"name": "PyTorch"}, {"name": "NLP"}, {"name": "AWS"}],
+      "experience": [
+        {"company": "Zoho", "title": "ML Engineer", "from": "2021-01", "to": "present"}
+      ],
+      "education": [
+        {"institution": "IIT Madras", "degree": "M.Tech", "field": "AI", "end_year": 2021}
+      ]
+    },
+    {
+      "full_name": null,
+      "contact": {}
+    }
+  ]
+}

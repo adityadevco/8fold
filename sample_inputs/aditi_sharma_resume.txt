@@ -1,0 +1,15 @@
+Aditi Sharma
+aditi.sharma@gmail.com | +91 98765 43210 | Bengaluru, India
+
+SKILLS
+Python, Go, Docker, Kubernetes, SQL, AWS
+
+EXPERIENCE
+Backend Engineer, Razorpay (Jun 2022 - Present)
+Built and scaled payment reconciliation microservices handling 2M+ transactions/day.
+
+Software Engineer Intern, Flipkart (Jan 2022 - May 2022)
+Worked on inventory pricing pipelines.
+
+EDUCATION
+BITS Pilani, B.E. Computer Science, 2022

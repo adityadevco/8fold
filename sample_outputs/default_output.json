@@ -1,0 +1,475 @@
+[
+  {
+    "candidate_id": "cand_0001",
+    "full_name": "Aditi Sharma",
+    "emails": [
+      "aditi.sharma@gmail.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": "Bengaluru",
+      "region": null,
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Backend Engineer @ Razorpay",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Python",
+        "confidence": 0.95,
+        "sources": [
+          "ats_json",
+          "resume"
+        ]
+      },
+      {
+        "name": "Go",
+        "confidence": 0.95,
+        "sources": [
+          "ats_json",
+          "resume"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.95,
+        "sources": [
+          "ats_json",
+          "resume"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.95,
+        "sources": [
+          "ats_json",
+          "resume"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 0.3,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.3,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Razorpay",
+        "title": "Backend Engineer",
+        "start": null,
+        "end": "present",
+        "summary": null
+      },
+      {
+        "company": "Razorpay",
+        "title": "Backend Engineer",
+        "start": "2022-06",
+        "end": "present",
+        "summary": "Building payment reconciliation services."
+      },
+      {
+        "company": null,
+        "title": null,
+        "start": null,
+        "end": null,
+        "summary": "Backend Engineer, Razorpay (Jun 2022 - Present) Built and scaled payment reconciliation microservices handling 2M+ transactions/day. Software Engineer Intern, Flipkart (Jan 2022 - May 2022) Worked on inventory pricing pipelines."
+      }
+    ],
+    "education": [
+      {
+        "institution": "BITS Pilani",
+        "degree": "B.E.",
+        "field": "Computer Science",
+        "end_year": 2022
+      },
+      {
+        "institution": "BITS Pilani, B.E. Computer Science, 2022",
+        "degree": null,
+        "field": null,
+        "end_year": null
+      }
+    ],
+    "overall_confidence": 0.85,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "merge"
+      },
+      {
+        "field": "emails",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "emails",
+        "source": "resume",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "resume",
+        "method": "merge"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "location",
+        "source": "ats_json",
+        "method": "key_remap"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "resume",
+        "method": "merge"
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json",
+        "method": "key_remap"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "section_dump"
+      },
+      {
+        "field": "education",
+        "source": "ats_json",
+        "method": "key_remap"
+      },
+      {
+        "field": "education",
+        "source": "resume",
+        "method": "section_dump"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_0002",
+    "full_name": "Rohan Verma",
+    "emails": [
+      "rohan.v@yahoo.com"
+    ],
+    "phones": [
+      "+14155550199"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Senior SWE",
+    "years_experience": null,
+    "skills": null,
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Senior SWE",
+        "start": null,
+        "end": "present",
+        "summary": null
+      }
+    ],
+    "education": null,
+    "overall_confidence": 0.7,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "merge"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cand_0003",
+    "full_name": "Karthik Iyer",
+    "emails": [
+      "karthik.iyer@outlook.com"
+    ],
+    "phones": [
+      "+919988776655",
+      "+919123456780"
+    ],
+    "location": {
+      "city": "Chennai",
+      "region": null,
+      "country": "IN"
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "ML Engineer",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "PyTorch",
+        "confidence": 0.95,
+        "sources": [
+          "ats_json",
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "Natural Language Processing",
+        "confidence": 0.95,
+        "sources": [
+          "ats_json",
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "AWS",
+        "confidence": 0.85,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.14,
+        "sources": [
+          "recruiter_notes"
+        ]
+      },
+      {
+        "name": "FastAPI",
+        "confidence": 0.14,
+        "sources": [
+          "recruiter_notes"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Freshworks",
+        "title": "Product Designer",
+        "start": null,
+        "end": "present",
+        "summary": null
+      },
+      {
+        "company": "Zoho",
+        "title": "ML Engineer",
+        "start": "2021-01",
+        "end": "present",
+        "summary": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIT Madras",
+        "degree": "M.Tech",
+        "field": "AI",
+        "end_year": 2021
+      }
+    ],
+    "overall_confidence": 0.78,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_notes",
+        "method": "merge"
+      },
+      {
+        "field": "emails",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_notes",
+        "method": "merge"
+      },
+      {
+        "field": "phones",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "headline",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "location",
+        "source": "ats_json",
+        "method": "key_remap"
+      },
+      {
+        "field": "skills",
+        "source": "recruiter_notes",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "recruiter_notes",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "ats_json",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "recruiter_notes",
+        "method": "merge"
+      },
+      {
+        "field": "skills",
+        "source": "recruiter_notes",
+        "method": "merge"
+      },
+      {
+        "field": "experience",
+        "source": "recruiter_csv",
+        "method": "csv_column"
+      },
+      {
+        "field": "experience",
+        "source": "ats_json",
+        "method": "key_remap"
+      },
+      {
+        "field": "education",
+        "source": "ats_json",
+        "method": "key_remap"
+      }
+    ]
+  }
+]
